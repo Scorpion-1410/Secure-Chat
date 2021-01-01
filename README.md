@@ -9,7 +9,7 @@ Low Mode:- Only contains lower case letter (a-z)
 Medium Mode:- Conatins Lower as well as Upper case letter(a-z A-z)
 Strong Mode:- Contains Lower case, Upper case, and digits as well(a-z A-Z 0-9)
 ```
-## Encoding/Decoding Messgae
+## Encoding/Decoding Message
 ```
 Run encode-decode.py python script 
 ```
